@@ -1,6 +1,6 @@
-Scenario 1 - Online Food Ordering System
+# Scenario 1 - Online Food Ordering System
 
-Functional Requirements
+### Functional Requirements
 
 Customers
 - Create accounts
@@ -28,8 +28,7 @@ Delivery riders
 - Accept or reject delivery requests
 - Update delivery status (picked up/ on the way/ delivered)
 
-
-Non-functional requirements
+### Non-functional requirements
 - System should be accessible to many authorized users simultaneously 
 - Operate with minimum downtime (less than 0.1%)
 - Ensure secure transactions 
@@ -37,11 +36,11 @@ Non-functional requirements
 - Provide fast responses even in peak hours
 - Mobile and desktop responsive 
 
+<br><br>
 
+# Scenario 2 - Hospital Management System 
 
-Scenario 2 - Hospital Management System
-
-Functional Requirements
+### Functional Requirements
 
 Patients
 - Register
@@ -60,18 +59,19 @@ Hospital admins
 - Updating schedules
 - Handling patient records
 
-Non-Functional Requirements
+### Non-Functional Requirements
+
 - Secure system in accordance with GDPR Act for sensitiva data storage and manipulation
 - Reliable system interactions 
 - Easy to use, even for non-technical people
 - Support multiple authorized users simulteneously without delays
 - Mobile and Desktop responsive
 
+<br><br>
 
+# Scenario 3 - Online Learning Platform
 
-Scenario 3 - Online Learning Platform
-
-Functional Requirements
+### Functional Requirements
 
 Students
 - Access learning resources from anywhere through internet
@@ -90,7 +90,7 @@ Uni Admins
 - Create, update, and remove student and lecturer accounts
 
 
-Non-functional Requirements
+### Non-functional Requirements
 - Support many authorized users at the same time
 - Protect user data securely
 - Easy to use platform 
